@@ -1,6 +1,6 @@
-Nama:
-NPM:
-Kode Soal:
+Nama: Muhammad Aqil Alhafizh
+NPM: 20312088
+Kode Soal: B
 
 1. Sistem apa yang anda kembangkan?
 Jawab: Sistem Pelayanan Pasien Klinik XYZ
