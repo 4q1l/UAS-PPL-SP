@@ -1,9 +1,9 @@
-Nama:
-NPM:
-Prodi:
+Nama: Muhammad Aqil Alhafizh
+NPM: 20312088   
+Prodi: Informatika
 
 Link hasil perencanaan sistem menggunakan BRD:
-*upload BRD ke drive dan pastikan akses file bersifat public
+*https://drive.google.com/drive/folders/1bS312dYvjmg8eYscjc06EUKY8r17-fkI?usp=sharing
 
 Link hasil perencanaan sistem menggunakan Trello:
-*upload link trello dan pastikan akses board bersifat public
+*https://trello.com/invite/b/nqapy9YU/ATTI02d25fb4114d0f055a087eb44566b5e57017F619/uaspplsp

@@ -3,16 +3,16 @@ NPM:
 Kode Soal:
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Sistem Pelayanan Pasien Klinik XYZ
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Sistem dalam klinik masih manual dan tidak efektif
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Membuat website yang efektif dalam menangani Administrasi Pendaftaran, Pengelolaan Data Pasien, Data Bidan, Data Rumah Sakit Rujukan dan Pelaporan Pembayaran secara real-time.
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab: Membuat data yang dikelola secara database sehingga mudah di modifikasi dan disimpan serta memudahkan pendaftaran sampai pembayaran dengan sistem online berbasis web.
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab: Error dan waktu yang teratas
